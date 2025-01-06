@@ -1,16 +1,8 @@
 @inproceedings{REPO234,
     author = "Yan, Yikai and Niu, Chaoyue and Gu, Renjie and Wu, Fan and Tang, Shaojie and Hua, Lifeng and Lyu, Chengfei and Chen, Guihai",
-    address = "New York, NY, USA",
     booktitle = "Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
-    doi = "10.1145/3534678.3539263",
-    isbn = "9781450393850",
-    keywords = "device-cloud collaborative learning, domain adaptation, model personalization, recommender systems",
-    location = "Washington DC, USA",
     numpages = "11",
     pages = "2180–2190",
-    publisher = "Association for Computing Machinery",
-    series = "KDD '22",
     title = "{On-Device Learning for Model Personalization with Large-Scale Cloud-Coordinated Domain Adaption}",
-    url = "https://doi.org/10.1145/3534678.3539263",
     year = "2022"
 }
