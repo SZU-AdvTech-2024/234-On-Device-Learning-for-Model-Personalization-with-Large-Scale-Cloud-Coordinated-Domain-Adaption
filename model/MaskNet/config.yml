@@ -1,0 +1,14 @@
+# 模型在Movielens数据集上的配置
+movielens_num_users: 138493
+movielens_num_items: 27278
+movielens_num_user_embedding: 138493
+movielens_num_item_embedding: 26744
+
+# 模型在Amazon数据集上的配置
+amazon_num_users: 138493
+amazon_num_items: 27278
+amazon_num_user_embedding: 138493
+amazon_num_item_embedding: 26744
+
+embedding_dim: 32
+thre: 0.5

@@ -1,0 +1,13 @@
+# 全局变量配置
+home_path: '/home/chao/workspace/MPDA-implementation'
+random_seed: 24
+num_task: 10
+num_recall_item_pairs: 50
+one_class_auc: 0.5
+random_mask_ratio: 0.05
+
+# movielens配置
+movielens_timestamp: 1225642324
+
+# amazon配置
+amazon_timestamp: 1385078400
